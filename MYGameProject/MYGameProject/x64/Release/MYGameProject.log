@@ -1,0 +1,58 @@
+﻿  Cymbergaj.cpp
+C:\Users\Gamer\source\repos\f990a289-gr11-repo\Projekt\MYGameProject\MYGameProject\Boostery.hpp(7,74): warning C4244: "argument": konwersja z "_Rep" do "unsigned int", możliwa utrata danych
+C:\Users\Gamer\source\repos\f990a289-gr11-repo\Projekt\MYGameProject\MYGameProject\Boostery.hpp(7,74): warning C4244:         with
+C:\Users\Gamer\source\repos\f990a289-gr11-repo\Projekt\MYGameProject\MYGameProject\Boostery.hpp(7,74): warning C4244:         [
+C:\Users\Gamer\source\repos\f990a289-gr11-repo\Projekt\MYGameProject\MYGameProject\Boostery.hpp(7,74): warning C4244:             _Rep=std::chrono::system_clock::rep
+C:\Users\Gamer\source\repos\f990a289-gr11-repo\Projekt\MYGameProject\MYGameProject\Boostery.hpp(7,74): warning C4244:         ]
+C:\Users\Gamer\source\repos\f990a289-gr11-repo\Projekt\MYGameProject\MYGameProject\Boostery.hpp(40,29): warning C4244: "argument": konwersja z "float" do "const int", możliwa utrata danych
+C:\Users\Gamer\source\repos\f990a289-gr11-repo\Projekt\MYGameProject\MYGameProject\Boostery.hpp(40,17): warning C4244: "inicjowanie": konwersja z "int" do "float", możliwa utrata danych
+C:\Users\Gamer\source\repos\f990a289-gr11-repo\Projekt\MYGameProject\MYGameProject\Boostery.hpp(41,29): warning C4244: "argument": konwersja z "float" do "const int", możliwa utrata danych
+C:\Users\Gamer\source\repos\f990a289-gr11-repo\Projekt\MYGameProject\MYGameProject\Boostery.hpp(41,17): warning C4244: "inicjowanie": konwersja z "int" do "float", możliwa utrata danych
+C:\Users\Gamer\source\repos\f990a289-gr11-repo\Projekt\MYGameProject\MYGameProject\Boostery.hpp(64,29): warning C4244: "argument": konwersja z "float" do "const int", możliwa utrata danych
+C:\Users\Gamer\source\repos\f990a289-gr11-repo\Projekt\MYGameProject\MYGameProject\Boostery.hpp(64,17): warning C4244: "inicjowanie": konwersja z "int" do "float", możliwa utrata danych
+C:\Users\Gamer\source\repos\f990a289-gr11-repo\Projekt\MYGameProject\MYGameProject\Boostery.hpp(65,29): warning C4244: "argument": konwersja z "float" do "const int", możliwa utrata danych
+C:\Users\Gamer\source\repos\f990a289-gr11-repo\Projekt\MYGameProject\MYGameProject\Boostery.hpp(65,17): warning C4244: "inicjowanie": konwersja z "int" do "float", możliwa utrata danych
+C:\Users\Gamer\source\repos\f990a289-gr11-repo\Projekt\MYGameProject\MYGameProject\ObslugaGry.hpp(99,58): warning C4244: "argument": konwersja z "T" do "float", możliwa utrata danych
+C:\Users\Gamer\source\repos\f990a289-gr11-repo\Projekt\MYGameProject\MYGameProject\ObslugaGry.hpp(99,58): warning C4244:         with
+C:\Users\Gamer\source\repos\f990a289-gr11-repo\Projekt\MYGameProject\MYGameProject\ObslugaGry.hpp(99,58): warning C4244:         [
+C:\Users\Gamer\source\repos\f990a289-gr11-repo\Projekt\MYGameProject\MYGameProject\ObslugaGry.hpp(99,58): warning C4244:             T=unsigned int
+C:\Users\Gamer\source\repos\f990a289-gr11-repo\Projekt\MYGameProject\MYGameProject\ObslugaGry.hpp(99,58): warning C4244:         ]
+C:\Users\Gamer\source\repos\f990a289-gr11-repo\Projekt\MYGameProject\MYGameProject\ObslugaGry.hpp(99,40): warning C4244: "argument": konwersja z "T" do "float", możliwa utrata danych
+C:\Users\Gamer\source\repos\f990a289-gr11-repo\Projekt\MYGameProject\MYGameProject\ObslugaGry.hpp(99,40): warning C4244:         with
+C:\Users\Gamer\source\repos\f990a289-gr11-repo\Projekt\MYGameProject\MYGameProject\ObslugaGry.hpp(99,40): warning C4244:         [
+C:\Users\Gamer\source\repos\f990a289-gr11-repo\Projekt\MYGameProject\MYGameProject\ObslugaGry.hpp(99,40): warning C4244:             T=unsigned int
+C:\Users\Gamer\source\repos\f990a289-gr11-repo\Projekt\MYGameProject\MYGameProject\ObslugaGry.hpp(99,40): warning C4244:         ]
+C:\Users\Gamer\source\repos\f990a289-gr11-repo\Projekt\MYGameProject\MYGameProject\ObslugaGry.hpp(100,58): warning C4244: "argument": konwersja z "T" do "float", możliwa utrata danych
+C:\Users\Gamer\source\repos\f990a289-gr11-repo\Projekt\MYGameProject\MYGameProject\ObslugaGry.hpp(100,58): warning C4244:         with
+C:\Users\Gamer\source\repos\f990a289-gr11-repo\Projekt\MYGameProject\MYGameProject\ObslugaGry.hpp(100,58): warning C4244:         [
+C:\Users\Gamer\source\repos\f990a289-gr11-repo\Projekt\MYGameProject\MYGameProject\ObslugaGry.hpp(100,58): warning C4244:             T=unsigned int
+C:\Users\Gamer\source\repos\f990a289-gr11-repo\Projekt\MYGameProject\MYGameProject\ObslugaGry.hpp(100,58): warning C4244:         ]
+C:\Users\Gamer\source\repos\f990a289-gr11-repo\Projekt\MYGameProject\MYGameProject\ObslugaGry.hpp(100,40): warning C4244: "argument": konwersja z "T" do "float", możliwa utrata danych
+C:\Users\Gamer\source\repos\f990a289-gr11-repo\Projekt\MYGameProject\MYGameProject\ObslugaGry.hpp(100,40): warning C4244:         with
+C:\Users\Gamer\source\repos\f990a289-gr11-repo\Projekt\MYGameProject\MYGameProject\ObslugaGry.hpp(100,40): warning C4244:         [
+C:\Users\Gamer\source\repos\f990a289-gr11-repo\Projekt\MYGameProject\MYGameProject\ObslugaGry.hpp(100,40): warning C4244:             T=unsigned int
+C:\Users\Gamer\source\repos\f990a289-gr11-repo\Projekt\MYGameProject\MYGameProject\ObslugaGry.hpp(100,40): warning C4244:         ]
+C:\Users\Gamer\source\repos\f990a289-gr11-repo\Projekt\MYGameProject\MYGameProject\ObslugaGry.hpp(373,37): warning C4244: "argument": konwersja z "float" do "const int", możliwa utrata danych
+C:\Users\Gamer\source\repos\f990a289-gr11-repo\Projekt\MYGameProject\MYGameProject\ObslugaGry.hpp(373,54): warning C4244: "argument": konwersja z "float" do "const int", możliwa utrata danych
+C:\Users\Gamer\source\repos\f990a289-gr11-repo\Projekt\MYGameProject\MYGameProject\ObslugaGry.hpp(373,50): warning C4244: "argument": konwersja z "int" do "float", możliwa utrata danych
+C:\Users\Gamer\source\repos\f990a289-gr11-repo\Projekt\MYGameProject\MYGameProject\ObslugaGry.hpp(373,33): warning C4244: "argument": konwersja z "int" do "float", możliwa utrata danych
+C:\Users\Gamer\source\repos\f990a289-gr11-repo\Projekt\MYGameProject\MYGameProject\ObslugaGry.hpp(374,41): warning C4244: "argument": konwersja z "float" do "const int", możliwa utrata danych
+C:\Users\Gamer\source\repos\f990a289-gr11-repo\Projekt\MYGameProject\MYGameProject\ObslugaGry.hpp(374,58): warning C4244: "argument": konwersja z "float" do "const int", możliwa utrata danych
+C:\Users\Gamer\source\repos\f990a289-gr11-repo\Projekt\MYGameProject\MYGameProject\ObslugaGry.hpp(374,54): warning C4244: "argument": konwersja z "int" do "float", możliwa utrata danych
+C:\Users\Gamer\source\repos\f990a289-gr11-repo\Projekt\MYGameProject\MYGameProject\ObslugaGry.hpp(374,37): warning C4244: "argument": konwersja z "int" do "float", możliwa utrata danych
+C:\Users\Gamer\source\repos\f990a289-gr11-repo\Projekt\MYGameProject\MYGameProject\Cymbergaj.cpp(12,56): warning C4244: "argument": konwersja z "T" do "float", możliwa utrata danych
+C:\Users\Gamer\source\repos\f990a289-gr11-repo\Projekt\MYGameProject\MYGameProject\Cymbergaj.cpp(12,56): warning C4244:         with
+C:\Users\Gamer\source\repos\f990a289-gr11-repo\Projekt\MYGameProject\MYGameProject\Cymbergaj.cpp(12,56): warning C4244:         [
+C:\Users\Gamer\source\repos\f990a289-gr11-repo\Projekt\MYGameProject\MYGameProject\Cymbergaj.cpp(12,56): warning C4244:             T=unsigned int
+C:\Users\Gamer\source\repos\f990a289-gr11-repo\Projekt\MYGameProject\MYGameProject\Cymbergaj.cpp(12,56): warning C4244:         ]
+C:\Users\Gamer\source\repos\f990a289-gr11-repo\Projekt\MYGameProject\MYGameProject\Cymbergaj.cpp(12,36): warning C4244: "argument": konwersja z "T" do "float", możliwa utrata danych
+C:\Users\Gamer\source\repos\f990a289-gr11-repo\Projekt\MYGameProject\MYGameProject\Cymbergaj.cpp(12,36): warning C4244:         with
+C:\Users\Gamer\source\repos\f990a289-gr11-repo\Projekt\MYGameProject\MYGameProject\Cymbergaj.cpp(12,36): warning C4244:         [
+C:\Users\Gamer\source\repos\f990a289-gr11-repo\Projekt\MYGameProject\MYGameProject\Cymbergaj.cpp(12,36): warning C4244:             T=unsigned int
+C:\Users\Gamer\source\repos\f990a289-gr11-repo\Projekt\MYGameProject\MYGameProject\Cymbergaj.cpp(12,36): warning C4244:         ]
+  Trwa generowanie kodu
+  1 of 1321 functions (<0.1%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    2 functions had inline decision re-evaluated but remain unchanged
+  Zakończono generowanie kodu
+  MYGameProject.vcxproj -> C:\Users\Gamer\source\repos\f990a289-gr11-repo\Projekt\MYGameProject\x64\Release\MYGameProject.exe
