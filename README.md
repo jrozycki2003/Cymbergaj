@@ -5,7 +5,6 @@ Cymbergaj to gra komputerowa stworzona w języku C++ z wykorzystaniem biblioteki
 
 ![image](https://github.com/user-attachments/assets/7a302ffe-89f5-4890-a18d-32905db05415)
 ![image](https://github.com/user-attachments/assets/f190b588-99cf-421a-b3a2-3844f9f242bc)
-![image](https://github.com/user-attachments/assets/79c5de55-17ed-40a4-9457-95161dc382be)
 ![image](https://github.com/user-attachments/assets/1c96d375-7d10-40ec-a3f8-1904b063e717)
 ![image](https://github.com/user-attachments/assets/ba290b0f-6678-432a-a4b4-07251d0c94b1)
 
